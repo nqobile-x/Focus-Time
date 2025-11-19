@@ -25,7 +25,6 @@ This project demonstrates the following technical concepts:
 
 <img width="900" height="627" alt="Screenshot 2025-11-20 015252" src="https://github.com/user-attachments/assets/845a2af1-40d6-4d7c-b783-410818aa2cdd" />
 
-https://github.com/user-attachments/assets/a4bfab49-0fe2-465f-a94f-a07eaa06d4d3<img width="894" height="631" alt="Screenshot 2025-11-20 015324" src="https://github.com/user-attachments/assets/f8b99b1a-2bce-4043-8646-c05050a3ac5c" />
 <img width="900" height="626" alt="Screenshot 2025-11-20 015354" src="https://github.com/user-attachments/assets/9ff13d4e-823c-4a66-8b72-66215f701992" />
 
 
@@ -55,6 +54,10 @@ https://github.com/user-attachments/assets/a4bfab49-0fe2-465f-a94f-a07eaa06d4d3<
    ```
 
 ## Project Structure
+
+https://github.com/user-attachments/assets/375e319c-96e1-4988-894b-a94806d263c8
+
+
 
 - `controllers/`: Application logic and event handling.
 - `models/`: Database models and business entities.
