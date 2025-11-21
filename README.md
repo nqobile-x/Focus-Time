@@ -1,6 +1,7 @@
 # Time Management App
 
 A desktop productivity tool built with Python and CustomTkinter.
+
 ![Uploading Gemini_Generated_Image_1441zs1441zs1441.png…]()
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
