@@ -1,8 +1,8 @@
 # Time Management App
 
 A desktop productivity tool built with Python and CustomTkinter.
+<img width="2816" height="1536" alt="Gemini_Generated_Image_1441zs1441zs1441" src="https://github.com/user-attachments/assets/1f9c85ad-5c06-4f39-a83a-056f26e4ff3a" />
 
-![Uploading Gemini_Generated_Image_1441zs1441zs1441.png…]()
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
